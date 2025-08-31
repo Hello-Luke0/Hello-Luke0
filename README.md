@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lukezin_0)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-campos-de-souza-806540252/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucasz00&show_icons=true&theme=tokyonight)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello-Luke0&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que utilizo:
 
