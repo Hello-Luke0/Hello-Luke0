@@ -1,20 +1,90 @@
-### Olá! Eu sou Lucas Campos 👋
+# 💻 Lucas Campos
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lukezin_0)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-campos-de-souza-806540252/)
+**`Desenvolvedor de Software`**
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello-Luke0&show_icons=true&theme=tokyonight)
+Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse na área de desenvolvimento de software de forma geral. Tenho buscado construir uma base sólida em lógica de programação, banco de dados e desenvolvimento de aplicações, explorando diferentes tecnologias e abordagens.
 
-## Tecnologias que utilizo:
+### ⚙️ Linguagens e Tecnologias
 
-<div style="display: inline block"></br>
- <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
- <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
- <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
- <img align="center" alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
- <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
- <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div></br>
+<img
+ align="left"
+ alt="HTML"
+ title="HTML"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img 
+ align="left"
+ alt="CSS"
+ title="CSS"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img 
+ align="left"
+ alt="JAVASCRIPT"
+ title="JAVASCRIPT"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img 
+ align="left"
+ alt="REACT"
+ title="REACT"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img 
+ align="left"
+ alt="JAVA"
+ title="JAVA"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img
+ align="left"
+ alt="SPRINGBOOT"
+ title="SPRINGBOOT"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+<img 
+ align="left"
+ alt="GIT"
+ title="GIT"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img 
+ align="left"
+ alt="PYTHON"
+ title="PYTHON"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+ <img 
+  align="left"
+  alt="MYSQL"
+  title="MYSQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<img 
+  align="left"
+  alt="POSTGRES"
+  title="POSTGRES"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+ <br/>
+ <br/>
