@@ -86,5 +86,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse na
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
- <br/>
- <br/>
+ <br></br>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hello-Luke0/Hello-Luke0/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hello-Luke0/Hello-Luke0/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hello-Luke0/Hello-Luke0/output/pacman-contribution-graph.svg">
+</picture>
