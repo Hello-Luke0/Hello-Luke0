@@ -32,6 +32,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com grande interesse na
 
 <img 
  align="left"
+ alt="NODE"
+ title="NODE"
+ width="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
+<img 
+ align="left"
  alt="REACT"
  title="REACT"
  width="30px"
